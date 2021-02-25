@@ -18,7 +18,7 @@ import me.dilan.game.view.Window;
 public class Game extends Canvas implements Runnable{
 
 	
-
+//test
 	/*
 	 * Explain stuff about this
 	 * 
